@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42352'
     url: http://www.gutenberg.org/2009/agents/42352
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43664#Theorie-und-Praxis-des-Generalstreiks-in-der-modernen-ArbeiterbewegungInauguraldissertation
 gutenberg_issued: '2013-09-07'
 gutenberg_type: Text
 identifiers:
