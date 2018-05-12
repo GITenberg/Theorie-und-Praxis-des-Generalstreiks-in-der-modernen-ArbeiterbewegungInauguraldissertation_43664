@@ -1,0 +1,27 @@
+_repo: Theorie-und-Praxis-des-Generalstreiks-in-der-modernen-ArbeiterbewegungInauguraldissertation_43664
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43664-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Georgi, Elsbeth
+    gutenberg_agent_id: '42352'
+    url: http://www.gutenberg.org/2009/agents/42352
+description: ''
+gutenberg_issued: '2013-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43664'
+  lccn: 09007748
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'General strikes'
+title: 'Theorie und Praxis des Generalstreiks in der modernen Arbeiterbewegung
+
+  Inauguraldissertation'
+url: http://www.gutenberg.org/ebooks/43664
